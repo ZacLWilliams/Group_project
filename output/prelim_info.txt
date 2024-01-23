@@ -1,0 +1,23 @@
+Minimum Release Year: 1945
+Maximum Release Year: 2022
+
+Genre Count
+action: 956
+animation: 576
+comedy: 1907
+crime: 718
+documentation: 726
+drama: 2406
+european: 439
+family: 558
+fantasy: 505
+history: 206
+horror: 312
+music: 210
+reality: 162
+romance: 772
+scifi: 473
+sport: 129
+thriller: 983
+war: 144
+western: 36
