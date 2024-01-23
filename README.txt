@@ -1,3 +1,5 @@
+Contributors: Jason, Qyu and Zac
+
 To Run:
 Have Jupyter Notebook installed. 
 
